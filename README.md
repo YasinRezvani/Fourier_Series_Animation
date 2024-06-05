@@ -1,2 +1,3 @@
-# feurie-matplotlib-live-
-qw
+# Fourier_Series_Animation
+
+
